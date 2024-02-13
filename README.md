@@ -1,0 +1,1 @@
+# Mobile-Friendly-Slider-in-JavaScript
